@@ -2,6 +2,9 @@
 
 Uma extensão do Chrome que transforma a página de Nova Aba em um exercício de respiração guiado para mindfulness e redução de estresse.
 
+![Screen](1.png)
+![Screen](2.png)
+
 ## ✨ Características
 
 - **Exercício de Respiração Guiado**: Animação sincronizada de círculo e texto
